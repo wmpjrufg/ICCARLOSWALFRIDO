@@ -25,5 +25,17 @@ Como calcula
   $delta_sigma_pi = $sigma_pi_t0-$sigma_pi_t1;
 ~~~
 
+~~~javascript
+Esta é uma linha de código em Javascript.
+~~~
+
+~~~php
+Esta é uma linha de código em PHP.
+~~~
+
+~~~html
+Esta é uma linha de código em HTML.
+~~~
+
 Equação Pi = Perda*Pi
 
