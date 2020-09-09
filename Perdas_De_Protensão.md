@@ -14,7 +14,7 @@ Variáveis
 
 Como calcula
 
-`teste
+~~~php
   $termo_exp_1 = $fat_micro*$fat_alfa;
   $termo_exp_2 = $fat_k*$distancia_x;
   $termo_exp_0 = ($termo_exp_1-$termo_exp_2);
@@ -23,7 +23,7 @@ Como calcula
   $perda_perc = $delta_carga_pi/$carga_pi_t0*100;
   $sigma_pi_t1 = $sigma_pi_t0*(1-$perda_perc/100);
   $delta_sigma_pi = $sigma_pi_t0-$sigma_pi_t1;
-`
+~~~
 
 Equação Pi = Perda*Pi
 
