@@ -37,5 +37,38 @@ Esta é uma linha de código em PHP.
 Esta é uma linha de código em HTML.
 ~~~
 
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
+
+Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+Valor | Valor | Valor
+
+ Esta é uma linha que contém um ˋcódigoˋ.
+
+ˋˋˋ
+Esta é uma linha de código
+ ˋˋˋ
+ 
+1. Item 1
+2. Item 2
+3. Item 3
+
+# Título <h1>
+## Título <h2>
+### Título <h3>
+#### Título <h4>
+##### Título <h5>
+###### Título <h6>
+ 
+>Este é um *blockquote*. O sinal usado abre e fecha este código no HTML. 
+>Para adicionar mais uma linha à citação, basta teclar Enter para um novo
+>código sinal. Isso gerará um novo parágrafo dentro do *blockquote*.
+>Códigos de **negrito**, _itálico_ e <https://links.com> funcionam aqui.
+
 Equação Pi = Perda*Pi
 
