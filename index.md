@@ -16,7 +16,7 @@ _**Dados do projeto de pesquisa**_
 
 ### 1.0 CONCEITOS GERAIS DE CONCRETO PROTENDIDO
 ### 2.0 BIBLIOTECA CORETEC TOOLS CONCRETO PROTENDIDO
-#### [2.1 Perda por atrito](https://wmpjrufg.github.io/CT_CONCRETO_PROTENDIDO/CAP21000.html)
+#### [2.1 Perda por atrito](https://wmpjrufg.github.io/CT_CONCRETO_PROTENDIDO/CAP_21000.html)
 #### 2.2 Deformação inicial
 #### 2.3 Escorregamento dos cabos
 #### 2.4 Retração do concreto
