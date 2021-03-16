@@ -1,18 +1,21 @@
-Nesse ambiente de livro *online* será descrita a pesquisa de Iniciação Céntifica que deu origem ao programa **Coretectools Freyssenet**. Logo são descritos brevemente os procedimentos teóricos empregados para elaboração das ferramentas de cálculo do concreto protendido
+Seja bem vindo à calculadora **CORETEC TOOLS: CONCRETO PROTENDIDO**
 
-### Discentes responsáveis
-- Carlos Magno Silva Carneiro 
-- Eng. civil Walfrido Carvalho do Valle
+<p align="justify">Nesse guia você terá acesso ao manual do usuário da calculadora <b>Concreto Protendido</b> que faz parte da plataforma <i>online</i> de aprendizado <a href="coretectools.com.br">Coretec Tools</a>.</p> 
 
-### Orientação e supervisão
-- Prof. Dr. Wanderlei Malaquias Pereira Junior
-- Prof. Dr. Luanna Lopes Lobato
-- Prof. Dr. Thiago Jabur
+_**Dados do projeto de pesquisa**_  
 
-### 1.0 Conceitos gerais de concreto protendido
-#### 1.1 O que é concreto protendido e suas aplicações
-#### 1.2 Tipos de protensão e equipamentos
-### 2.0 Perdas de protensão
+**Nome:** Desenvolvimento de uma plataforma multidisciplinar de trabalho voltada à engenharia (**PI02801-2018**)  
+
+**Início do projeto:** 2020  
+
+**Coordenação:** [Prof. Dr. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)    
+
+**Discentes:**  
+- Carlos Magno  
+- Walfrido Carvalho do Valle
+
+### 1.0 CONCEITOS GERAIS DE CONCRETO PROTENDIDO
+### 2.0 BIBLIOTECA CORETEC TOOLS CONCRETO PROTENDIDO
 #### 2.1 Perda por atrito
 #### 2.2 Deformação inicial
 #### 2.3 Escorregamento dos cabos
